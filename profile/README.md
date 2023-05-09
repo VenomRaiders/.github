@@ -9,7 +9,7 @@ You're contirbutions on this organization will be greatly appreciated.
 We hope through this organization, you get to level up and have a community that can bring the best out of you!
 Please feel free to open pull <b>requests</b>!
 
-This organization is managed by a team of great individuals!
+This organization is managed by a [team of great individuals!](https://github.com/orgs/VenomRaiders/people)
 <!--
 
 **Here are some ideas to get you started:**
