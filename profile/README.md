@@ -2,7 +2,7 @@
 
 ## Hello there👋
 
-Welcome to <b>Venomraiders</b>. A rising organization in Cameroon with a Mision to help *aspiring developer/Soon to be developers* know how to code
+Welcome to <b>Venomraiders</b>. A rising organization in Cameroon with a Mission to help *aspiring developer/Soon to be developers* know how to code
 The whole world is going digital. A great time to get into the tech industry! Our goal is to help as many people as possible learn how to code and be able to earn while being a developer.<br>
 
 You're contirbutions on this organization will be greatly appreciated.
