@@ -2,11 +2,11 @@
 
 ## Hello there👋
 
-Welcome to <b>Venomraiders</b>. A rising organization in Cameroon with a Mission to help *aspiring developer/Soon to be developers* know how to code
-The whole world is going digital. A great time to get into the tech industry! Our goal is to help as many people as possible learn how to code and be able to earn while being a developer.<br>
+Welcome to <b>Venomraiders</b>. A rising organization in Cameroon with a Mission to help *aspiring developers* know how to code.
+The whole world is going digital. It's a great time to get into the tech industry! Our goal is to help as many people as possible learn how to code and be able to earn while being a developer.<br>
 
-You're contirbutions on this organization will be greatly appreciated.
-We hope through this organization, you get to level up and have a community that can bring the best out of you!
+I would greatly appreciate your thoughts on this organization.
+Through this organization, you get to level up and have a community that can bring the best out of you!
 Please feel free to open pull <b>requests</b>!
 
 This organization is managed by a [team of great individuals!](https://github.com/orgs/VenomRaiders/people)
